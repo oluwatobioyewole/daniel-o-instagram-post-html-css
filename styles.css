@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+.ig-post {
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    margin: 50px auto;    
+}
+
+.ig-header {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    padding-left: 15px;
+}
+
+.logo {
+    width: 10%;
+    width: 25px;
+    height: 25px; 
+}
+
+.titles {
+    width: 80%;
+}
+
+.menu {
+    width: 10%;
+}
+
+.title1 {
+    margin: 8px 0 0 0;
+    font-weight: bold;
+    gap: 6px;
+}
+
+.title2 {
+    margin: 0 0 0;
+    gap: 6px;
+}
+
+.html-logo {
+    margin-top: 10px;
+    margin-right: 6px;
+}
+
+.ellipsis {
+    margin-top: 15px;
+    width: 40px;
+    height: 40px;
+    padding-left: 9px;
+}
+
+
+
